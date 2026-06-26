@@ -5,3 +5,5 @@ DoubleH3lix, but for A10. Semi-Semi untethered.
 2. Run Ketterra1n, this will boot patched XNU without KTR.
 4. Run KetterH3lix!
 Now you should be jailbroken.
+# eta wen?
+Never.
